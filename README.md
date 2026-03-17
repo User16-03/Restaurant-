@@ -68,5 +68,3 @@ GUSTO is a modern, high-end full-stack restaurant management application designe
    - Dashboard: `npm run dev` (inside dashboard folder)
    - Server: `npm start` (inside server folder)
 
----
-*Created with ❤️ for GUSTO - Elevating the Dining Experience.*
